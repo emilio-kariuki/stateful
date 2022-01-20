@@ -4,6 +4,7 @@ import 'package:flutter/cupertino.dart';
 void main() {
   runApp(MaterialApp(
     home: Ninja(),
+    debugShowCheckedModeBanner: false,
   ));
 }
 
